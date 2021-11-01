@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chriskokc
-- 🌱 I’m currently a master’s student in Computer Science at the University of Bath
-- 💞️ My personal goal is to work in Python development and AI technology team  
+- 🌱 I’m currently a Graduate C++ Developer in FinTech
+- 💞️ My personal goal is to work in AI technology and build automation software for the financial services industry
 - 📫 How to reach me: :star: www.linkedin.com/in/chris-ko-uk/ OR :email: kck34@bath.ac.uk
 
 <!---
