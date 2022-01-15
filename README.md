@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chriskokc
-- 💞️ My personal goal is to work as a Python Developer
+- 💞️ My aspiration is to become a Professional Python Developer
 - 📫 How to reach me: :star: www.linkedin.com/in/chris-ko-uk/ OR :email: kck34@bath.ac.uk
 
 <!---
