@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chriskokc
 - 💞️ My aspiration is to become a Professional Python Developer
-- 📫 How to reach me: :star: www.linkedin.com/in/chris-ko-uk/ OR :email: kck34@bath.ac.uk
+- 📫 How to reach me: :star: www.linkedin.com/in/chris-ko-uk/ OR :email: chris.ckkc@gmail.com
 
 <!---
 chriskokc/chriskokc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
