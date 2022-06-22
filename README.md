@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chriskokc
-- 💞️ My aspiration is to become a Professional Python Developer
+- 💞️ My aspiration is to become a Professional Software Developer
 - 📫 How to reach me: :star: www.linkedin.com/in/chris-ko-uk/ OR :email: chris.ckkc@gmail.com
 
 <!---
